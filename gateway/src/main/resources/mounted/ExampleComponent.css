@@ -1,0 +1,8 @@
+.button-example {
+    display: flex;
+    flex-direction: column;
+    color: blue;
+    font-size: 2rem;
+    align-content: center;
+    text-align: center;
+}
